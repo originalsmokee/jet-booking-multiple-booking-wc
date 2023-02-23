@@ -1,2 +1,2 @@
 # jet-booking-multiple-booking-wc
-The Plugin 
+Advanced functionality for Crocoblock's Jet Booking with multiple bookings at the same time and WC integration.
