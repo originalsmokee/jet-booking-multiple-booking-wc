@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Jet Booking Multiple Booking.
  * Plugin URI: #
- * Description: Creates a new shortcode that allows get value from repeater field.
+ * Description: Advanced Jet Booking Functionality
  * Version:     1.0.0
  * Author:      picoredo
  * Author URI:  https://crocoblock.com/
